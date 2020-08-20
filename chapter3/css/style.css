@@ -3,13 +3,17 @@ header{
 	color: #2e99a9;
 }
 
-hr{
+hr {
 	border-width: 3px;
 	border-color: #2e99a9;
 }
 
-h1{
+h1 {
 	font-size: 18px;
 	font-weight: bold;
-	margin: 0;
+	margin:0;
+}
+
+.align-right{
+	text-align: right;
 }
